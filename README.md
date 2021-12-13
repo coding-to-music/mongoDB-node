@@ -1,6 +1,8 @@
-# Using MongoDB with Node.JS
+# Using MongoDB with Node.JS to create a local database to insert and read records
 
 https://dev.to/peppermints/using-mongodb-with-nodejs-4n94
+
+https://github.com/coding-to-music/mongoDB-node
 
 By [Pepper](https://dev.to/peppermints)
 
